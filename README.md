@@ -8,9 +8,9 @@ Yes, ideally once triggered the phone should just relay the crying sounds, but u
 ## Workflow
 
 1. Once the app starts, the app will listen for changes in sound level
-2. When the sound decibels goes beyond 60, the app will begin to wait for 10 seconds
-3. If after 10 seconds the sound level is still over 60, a song will play on the bluetooth speaker (Yes, it is the Kick from Inception to wake you up!)
-4. If after 10 seconds the sound level is not over 60, then no song will play. 
+2. When the sound decibels goes beyond 60 dB, the app will begin to wait for 10 seconds
+3. If after 10 seconds the sound level is still over 60 dB, a song will play on the bluetooth speaker (Yes, it is the Kick from Inception to wake you up!)
+4. If after 10 seconds the sound level is not over 60 dB, then no song will play. 
 
 ## Dependencies
 
