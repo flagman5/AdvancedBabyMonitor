@@ -102,6 +102,9 @@ export default class App extends Component<Props> {
           this.setState({beginWait: false});
           this.transmit();
         }
+        else if(this.state.currentDB < -60 && this.state.beginWait) {
+          this.setState({beginWait: false});
+        }
       }
     }, 10000);
 
