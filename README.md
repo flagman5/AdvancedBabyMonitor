@@ -17,8 +17,8 @@ Check the package.json file. Also I did install Crashlytics but removed my confi
 ## Install Instructions
 
 This is a standard React Native app, simply follow instructions to init a RN app, dump these files in, run 
-`npm install`
-`react-native link`
-`react-native run-android`
+- `npm install`
+- `react-native link`
+- `react-native run-android`
 
 ### *did not bother with iOS, feel free to try it
