@@ -3,6 +3,8 @@ Audio only baby monitor that has a 10 second delay before notifying parents.
 
 USE AT OWN RISK. There is no notification when the bluetooth connection to the speaker is dropped!! This is why I decided not to publish on Play store, because it is very risky. I have not come across any programmable bluetooth speakers so it is not really possible for the common person to build something commercially acceptable.
 
+Yes, ideally once triggered the phone should just relay the crying sounds, but unfortunately it is very difficult to stream audio on an android app, so I had to just play a default music clip.
+
 ## Workflow
 
 1. Once the app starts, the app will listen for changes in sound level
