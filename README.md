@@ -21,4 +21,4 @@ This is a standard React Native app, simply follow instructions to init a RN app
 `react-native link`
 `react-native run-android`
 
-### DID not bother with iOS
+### *did not bother with iOS, feel free to try it
